@@ -1,103 +1,139 @@
 # Hi, I'm Anu 👋
 
-### Java Backend Developer | Full Stack Development Enthusiast
+### Java Backend Developer · Full Stack Developer in Progress · Builder · Lifelong Learner
 
-I'm an aspiring software developer passionate about building practical applications, learning backend technologies, and improving my problem-solving skills through hands-on projects.
+I enjoy turning ideas into practical applications using Java and web technologies. I'm building my foundation in backend development, exploring full-stack engineering, and learning by creating real-world projects.
 
-I enjoy turning ideas into working applications and continuously exploring technologies that help me grow as a developer.
-
----
-
-## 👩‍💻 About Me
-
-- 💻 Interested in Java Backend Development and Full Stack Development.
-- ☕ Learning Core Java, Object-Oriented Programming, and backend development.
-- 🌐 Exploring web technologies to build user-friendly applications.
-- 🛠️ Building practical projects to strengthen my programming skills.
-- 📚 Sharing my learning journey and technical content on Medium.
-- 🚀 Focused on continuous learning, clean code, and real-world problem-solving.
+💼 [LinkedIn](https://www.linkedin.com/in/anusuya-dev) · 📝 [Medium](https://medium.com/@anusuya050306) · 🐙 [GitHub](https://github.com/anu05anusuya-jpg)
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Do
 
-### Programming Languages
-- Java
-- JavaScript
-- Python
+### ☕ Java & Backend Development
+Building a strong foundation in Java and object-oriented programming, with a focus on writing structured, maintainable code.
 
-### Frontend Development
-- HTML5
-- CSS3
-- JavaScript
-- React
+- Core Java and Object-Oriented Programming
+- Collections Framework and Exception Handling
+- Inheritance, Abstraction, Encapsulation, and Polymorphism
+- Backend development fundamentals
+- Problem-solving through hands-on practice
 
-### Backend & Concepts
-- Core Java
-- Object-Oriented Programming (OOP)
-- Collections Framework
-- Exception Handling
-- Backend Development Fundamentals
+### 🌐 Full Stack Development
+Exploring how frontend and backend technologies work together to create useful web applications.
 
-### Tools & Platforms
-- IntelliJ IDEA
-- Visual Studio Code
-- Git
-- GitHub
-- Postman
+- Building responsive web interfaces
+- Working with HTML, CSS, and JavaScript
+- Exploring React and component-based development
+- Connecting application concepts with real-world use cases
+
+### 🛠️ Learning by Building
+I believe the best way to learn software development is to build, experiment, debug, and improve.
+
+- Turning concepts into working projects
+- Practising clean code and reusable logic
+- Learning Git and GitHub workflows
+- Improving one project at a time
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technology Stack
 
-### 1. Employee Payroll Management System
-A Java-based project that demonstrates employee management and salary calculation using object-oriented programming concepts.
+**Languages**
 
-**Concepts:** Abstraction, Inheritance, Encapsulation, Polymorphism, and Method Overriding.
+`Java` `JavaScript` `Python`
 
-### 2. Vehicle Rental Management System
-A Java application that models vehicle rentals, customer details, addresses, and rental information.
+**Frontend**
 
-**Concepts:** Inheritance, Composition, Encapsulation, and Method Overriding.
+`HTML5` `CSS3` `React`
 
-### 3. Tourism Management System
-A Java-based application for managing tourism packages, bookings, traveler details, and package price calculations.
+**Backend & Concepts**
 
-**Concepts:** Object-Oriented Programming, Inheritance, Polymorphism, and Conditional Logic.
+`Core Java` `OOP` `Collections Framework` `Exception Handling`
 
-### 4. Janu Fashion
-A fashion shopping website project focused on creating a user-friendly shopping experience.
+**Tools**
 
-**Technologies:** React, JavaScript, HTML, and CSS.
+`IntelliJ IDEA` `VS Code` `Git` `GitHub` `Postman`
 
-> Project repository links can be added here as each project is uploaded to GitHub.
+---
+
+## 🌱 What I'm Building
+
+### 💼 Employee Payroll Management System
+A Java project focused on employee details and salary calculation using object-oriented programming.
+
+**Focus:** Abstraction · Inheritance · Encapsulation · Polymorphism · Method Overriding
+
+### 🚗 Vehicle Rental Management System
+A Java application that models vehicles, customers, addresses, and rental details through object-oriented relationships.
+
+**Focus:** Inheritance · Composition · Encapsulation · Class Relationships
+
+### ✈️ Tourism Management System
+A Java application for tourism packages, customer bookings, traveler details, discounts, and total-cost calculation.
+
+**Focus:** OOP · Inheritance · Polymorphism · Business Logic
+
+### 🛍️ Janu Fashion
+A fashion shopping website project designed around a simple, user-friendly shopping experience.
+
+**Focus:** React · JavaScript · HTML · CSS · Frontend Development
+
+*Project repository links can be added as the projects become available on GitHub.*
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Core Java concepts
-- Java Collections Framework
-- Exception Handling
-- Backend development fundamentals
-- Full Stack Development
-- Git and GitHub workflow
-- Writing clean, maintainable code
+- Strengthening Java programming fundamentals
+- Exploring advanced Collections Framework concepts
+- Practising exception handling and debugging
+- Understanding backend application development
+- Improving full-stack development skills
+- Learning to write clean, maintainable code
 
 ---
 
-## ✍️ Find Me Online
+## ✍️ Writing & Knowledge Sharing
 
-- 💼 **LinkedIn:** [Anusuya](https://www.linkedin.com/in/anusuya-dev)
-- 📝 **Medium:** [@anusuya050306](https://medium.com/@anusuya050306)
-- 🐙 **GitHub:** [anu05anusuya-jpg](https://github.com/anu05anusuya-jpg)
+I use writing and knowledge sharing to strengthen my understanding, document what I learn, and communicate technical ideas clearly.
 
----
+📝 **Explore my Medium profile:**
 
-## 🎯 My Goal
-
-My goal is to become a skilled Java Backend Developer by building meaningful projects, strengthening my technical foundation, and continuously learning industry-relevant technologies.
+[Read my posts on Medium →](https://medium.com/@anusuya050306)
 
 ---
 
-⭐ *Learning every day. Building step by step. Growing through code.*
+## 🎯 My Developer Journey
+
+Java Fundamentals  
+↓  
+Object-Oriented Programming  
+↓  
+Practical Java Projects  
+↓  
+Backend Development  
+↓  
+Full Stack Engineering  
+↓  
+Building Useful Software
+
+I believe consistent practice, curiosity, and learning from mistakes are essential to becoming a better developer.
+
+---
+
+## 🤝 Let's Connect
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anusuya-dev)
+
+📝 **Medium:** [Explore my profile](https://medium.com/@anusuya050306)
+
+🐙 **GitHub:** [Explore my projects](https://github.com/anu05anusuya-jpg)
+
+---
+
+### 💡 A Little More About Me
+
+I'm curious about how software works behind the scenes and enjoy breaking complex concepts into smaller, understandable pieces. Every project gives me an opportunity to learn something new, improve my skills, and move one step closer to becoming a stronger developer.
+
+**Always learning. Always building. Growing through code.** 🚀
